@@ -89,7 +89,8 @@ Before running the project, make sure you have the following installed:
 
 ## Screenshots / Demo
 
-Provide any screenshots of the app or a link to a video demo showcasing the upload functionality and the extracted data form.
+<img width="959" alt="Resume Parse" src="https://github.com/user-attachments/assets/f6662c8e-1d87-4bd0-8c7a-0cc929c5311e">
+
 
 ## Future Improvements
 
